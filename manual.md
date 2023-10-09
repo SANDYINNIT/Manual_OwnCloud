@@ -451,3 +451,11 @@ config.vm.network "forwarded_port", guest: 80, host: 8080
 # your network.
 config.vm.network "public_network"
 ```
+
+### OwnCloud Website, giving permissions, etc...
+
+**Permissions, Roles:**
+	
+To give permissions to other users you'll see your name on the top right, press it and 3 more options will pop up.. But go to "Users" and there you can add new users by putting in their username and email and which group you want to add them in.
+
+You can also add new group roles from the left side and give permissions to them.
